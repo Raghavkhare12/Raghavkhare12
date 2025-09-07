@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/RaghavKhare12/)
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+
 
 ---
 
@@ -50,5 +50,5 @@ I enjoy **solving tech challenges, coding puzzles, and exploring new technologie
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/RaghavKhare12/) | [Twitter](https://twitter.com/your-twitter-handle) | Email: your-email@example.com
+[LinkedIn](https://www.linkedin.com/in/RaghavKhare12/) | Email: raghav122006@gmail.com
 >>>>>>> fd91b50 (Add profile README)
