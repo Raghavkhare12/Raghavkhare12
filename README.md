@@ -1,7 +1,7 @@
 # Hi, I'm Raghav Khare 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/RaghavKhare12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
 
 
 ---
@@ -50,5 +50,5 @@ I enjoy **solving tech challenges, coding puzzles, and exploring new technologie
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/RaghavKhare12/) | Email: raghav122006@gmail.com
+[LinkedIn](https://www.linkedin.com/in/raghav-khare-360312382/) | Email: raghav122006@gmail.com
 >>>>>>> fd91b50 (Add profile README)
