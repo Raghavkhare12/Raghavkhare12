@@ -6,12 +6,12 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 I'm a passionate **C++ & Python developer**, exploring **Machine Learning**, **Data Science**, and building cool applications. I love contributing to **open-source projects** and learning new tech along the way.  
 
--  College: VIT Bhopal 
--  Current focus: Machine Learning & Web Development  
--  Always learning: Advanced C++, Flask, and AI  
+- 🎓 College: VIT Bhopal 
+- 💻 Current focus: Machine Learning & Web Development  
+- 🌱 Always learning: Advanced C++, Flask, and AI  
 
 ---
 
@@ -23,7 +23,7 @@ I'm a passionate **C++ & Python developer**, exploring **Machine Learning**, **D
 
 ---
 
-##  Projects
+## 📂 Projects
 ### [MediRec](https://github.com/Raghavkhare12/MediRec)
 > Personalized Medical Recommendation System using ML  
 
@@ -32,23 +32,23 @@ I'm a passionate **C++ & Python developer**, exploring **Machine Learning**, **D
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavkhare12&show_icons=true&theme=radical)
 
 ---
 
-##  Goals
+## 🎯 Goals
 - Contribute to major **open-source projects**  
 - Build real-world **Machine Learning applications**  
 - Expand knowledge in **AI & Deep Learning**  
 
 ---
 
-##  Fun Fact
+## ⚡ Fun Fact
 I enjoy **solving tech challenges, coding puzzles, and exploring new technologies**. Also, a coffee enthusiast ☕  
 
 ---
 
-##  Connect with Me
+## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/raghav-khare-360312382/) | Email: raghav122006@gmail.com
 
