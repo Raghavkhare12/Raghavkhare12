@@ -1,4 +1,4 @@
-# Hi, I'm Raghav Khare 👋
+# Hi, I'm Raghav Khare 
 
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 I'm a passionate **C++ & Python developer**, exploring **Machine Learning**, **Data Science**, and building **cool applications**. I love contributing to **open-source projects** and learning new tech along the way.  
 
-- 🎓 College: VIT Bhopal  
+- 🎓 College: CSE AIML, 2nd Year, VIT Bhopal
 - 💻 Current focus: Machine Learning & Web Development  
 - 🌱 Always learning: Advanced C++, Flask, AI  
 
