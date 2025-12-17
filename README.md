@@ -12,7 +12,7 @@
 I'm a passionate **C++ & Python developer**, exploring **Machine Learning**, **Data Science**, and building **cool applications**. I love contributing to **open-source projects** and learning new tech along the way.  
 
 - 🎓 College: CSE AIML, 2nd Year, VIT Bhopal
-- 💻 Current focus: Machine Learning & Web Development  
+- 💻 Current focus: Machine Learning & DSA
 - 🌱 Always learning: Advanced C++, Flask, AI, ML
 
 ---
