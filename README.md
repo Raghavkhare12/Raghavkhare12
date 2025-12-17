@@ -1,13 +1,11 @@
 # Hi, I'm Raghav Khare 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghavkhare12&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raghavkhare12&theme=radical&border_radius=10)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghavkhare12&theme=redical)
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
 [![Gmail](https://img.shields.io/badge/Email-raghav122006@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:raghav122006@gmail.com)
 
-![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1vaHBlMTVhaGllMDB0YTFkNXRqcm5rczNydHFibm9tMDhzODRkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVEBWRInEvNOEVS18i/giphy.gif)
 
 ---
 
