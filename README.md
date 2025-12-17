@@ -1,5 +1,6 @@
 # Hi, I'm Raghav Khare 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghavkhare12&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raghavkhare12&theme=radical&border_radius=10)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghavkhare12&theme=redical)
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
