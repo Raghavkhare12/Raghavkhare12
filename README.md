@@ -1,4 +1,4 @@
-# Hi, I'm Raghav Khare 
+# Hi, I'm Raghav Khare 👋
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raghavkhare12&theme=radical&border_radius=10)
 
@@ -6,66 +6,82 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
 [![Gmail](https://img.shields.io/badge/Email-raghav122006@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:raghav122006@gmail.com)
 
+---
+
+## 👨‍💻 About Me
+
+I am a **Computer Science undergraduate** with strong foundations in **programming, problem-solving, and software development**.  
+I enjoy building **end-to-end applications**, collaborating in **team-based environments**, and translating ideas into working software systems.
+
+- 🎓 B.Tech CSE (AI & ML), **VIT Bhopal University**
+- 🧠 Strong interest in **Software Engineering & Product Development**
+- 🤝 Experience working in **hackathons, team projects, and community initiatives**
+- 🌱 Focused on writing **clean, modular, and maintainable code**
 
 ---
 
-## 🚀 About Me
-I'm a passionate **C++ & Python developer**, exploring **Machine Learning**, **Data Science**, and building **cool applications**. I love contributing to **open-source projects** and learning new tech along the way.  
+## 🛠 Technical Skills
 
-- 🎓 College: CSE AIML, 2nd Year, VIT Bhopal
-- 💻 Current focus: Machine Learning & DSA
-- 🌱 Always learning: Advanced C++, Flask, AI, ML
+### Programming
+- **Python**, **C++**, **C**
 
----
+### Computer Science Foundations
+- Data Structures & Algorithms (Basics)
+- Object-Oriented Programming (OOP)
+- Problem Solving & Algorithmic Thinking
 
-## 🛠 Skills
+### Software & Tools
+- Git, GitHub
+- VS Code, Jupyter Notebook
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Machine Learning (Foundational)
+- pandas, numpy, scikit-learn
 
 ---
 
-## 📂 Projects
-### [MediRec](https://github.com/Raghavkhare12/MediRec)
-> Personalized Medical Recommendation System using ML  
+## 📂 Featured Projects
 
-### More Projects
-- More exciting projects coming soon!  
+### 🔹 [To-Do Web App](https://github.com/Raghavkhare12/To-Do-List-Web-App)
+**Full-stack task management application**
+- Built a clean and functional web-based to-do system
+- Focused on structured code, usability, and feature implementation
+- Strengthened understanding of application workflows and debugging
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 [Project Darpan](https://github.com/Raghavkhare12/Project_Darpan)
+**HackSecure 2025 – 2nd Prize (120+ teams)**
+- Collaborated in a 4-member team to design and implement a software solution for automated content analysis
+- Worked on feature development, integration, and testing under a 24-hour deadline
+- Gained experience in teamwork, rapid iteration, and system-level thinking
+
+---
+
+### 🔹 [MediRec](https://github.com/Raghavkhare12/MediRec)
+**Medical Recommendation System**
+- Built an end-to-end Python application covering data preprocessing, model integration, and evaluation
+- Designed a modular pipeline to handle real-world data challenges such as noise and class imbalance
+- Presented the project in a technical exhibition setting
+
+---
+
+## 📈 GitHub Stats
+
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavkhare12&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavkhare12&layout=compact&theme=radical)
 
 ---
 
-## 🎯 Goals
-- Contribute to major **open-source projects**  
-- Build real-world **Machine Learning applications**  
-- Expand knowledge in **AI & Deep Learning**  
+## 🎯 What I’m Working Toward
+
+- Building strong foundations in **software engineering**
+- Improving **data structures & problem-solving skills**
+- Contributing to **open-source and collaborative projects**
+- Preparing for **software engineering internships**
 
 ---
 
-## ⚡ Fun Fact
-I enjoy **solving tech challenges, coding puzzles, and exploring new technologies**. Also, a **coffee enthusiast** ☕  
+## 📫 Let’s Connect
 
----
-
-## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
 [![Gmail](https://img.shields.io/badge/Email-raghav122006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghav122006@gmail.com)
