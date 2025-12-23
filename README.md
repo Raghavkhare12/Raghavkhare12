@@ -1,6 +1,6 @@
 # Hi, I'm Raghav Khare 👋
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Raghavkhare12&theme=radical&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raghavkhare12&theme=radical&border_radius=10)](https://github.com/Raghavkhare12)
 
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
