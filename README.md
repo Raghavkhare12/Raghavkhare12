@@ -1,12 +1,4 @@
-# Hi, I'm Raghav Khare 👋
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raghavkhare12&theme=radical&border_radius=10)](https://github.com/Raghavkhare12)
-
-
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raghavkhare12/Raghavkhare12/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+# Hi, I'm Raghav Khare 
 
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raghav-khare-360312382/)
