@@ -3,7 +3,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Raghavkhare12&theme=radical&border_radius=10)](https://github.com/Raghavkhare12)
 <!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghavkhare12/Raghavkhare12/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghavkhare12/Raghavkhare12/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Raghavkhare12/Raghavkhare12/output/github-contribution-grid-snake.svg">
+</picture>
+
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Raghavkhare12?label=Follow&style=social)](https://github.com/Raghavkhare12)
